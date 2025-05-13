@@ -1,4 +1,4 @@
-# 2DSpaceShooter
+# 2D Space Shooter In C++ Using SFML 
 ![image](https://github.com/user-attachments/assets/5c8fc059-a511-434e-89ed-a742c3ed9307)
 ![image](https://github.com/user-attachments/assets/cb6fc972-5e56-49bd-a659-a9a81a6ca0af)
 ![image](https://github.com/user-attachments/assets/4fc4b2e9-7bc1-438d-9f84-4dfdf4dfffb9)
