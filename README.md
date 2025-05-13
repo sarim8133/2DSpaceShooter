@@ -1,6 +1,8 @@
 # 2DSpaceShooter
+![image](https://github.com/user-attachments/assets/5c8fc059-a511-434e-89ed-a742c3ed9307)
+![image](https://github.com/user-attachments/assets/cb6fc972-5e56-49bd-a659-a9a81a6ca0af)
+![image](https://github.com/user-attachments/assets/4fc4b2e9-7bc1-438d-9f84-4dfdf4dfffb9)
+![image](https://github.com/user-attachments/assets/1745dd5c-143c-42be-bd0a-6a58b41d10a6)
+![image](https://github.com/user-attachments/assets/422ec970-742e-46e7-881f-2218b6e77e31)
 
-![image](https://github.com/user-attachments/assets/2d59885c-9fea-40ee-8eb2-2fff1f3080de)
-![image](https://github.com/user-attachments/assets/db24bf91-380e-4376-b685-313a5194e316)
-![image](https://github.com/user-attachments/assets/d0367d0d-ab3b-4df4-a8db-f97b61371fe9)
-![image](https://github.com/user-attachments/assets/5cab0540-c965-4351-ac59-52579a6b1651)
+
